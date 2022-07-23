@@ -729,9 +729,12 @@ header nav .form i:hover{
     color: #2a2a2a;
     margin-bottom: 10px;
 }
-.offers .tabs-content p {
-    margin-right: 100px;
+@media(min-width:1200px){
+    .offers .tabs-content p{
+	margin-right:100px
+	}
 }
+
 .offers .tabs-content .price h6 {
     position: absolute;
     top: 15px;
