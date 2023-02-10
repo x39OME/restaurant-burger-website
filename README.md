@@ -1,3 +1,3 @@
-# Template_Resturant_Burger
+# Resturant_Burger_Template
 
-`Responvie Website Using HTML\CSS & Javascript`
+` Resturant_Burger Responvie Website Using HTML\CSS & Javascript`
