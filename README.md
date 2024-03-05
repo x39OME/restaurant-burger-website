@@ -1,4 +1,4 @@
-# Resturant_Burger_Template
+# Restaurant Burger Website
 
 ` Resturant_Burger Responvie Website Using HTML\CSS & Javascript`
 
